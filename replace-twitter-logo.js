@@ -1,14 +1,17 @@
 // ==UserScript==
 // @name         Replace Twitter logo
-// @namespace    http://tampermonkey.net/
-// @version      0.1
-// @description  Assume I am Elon Musck, the boss of Twitter.
+// @namespace    https://github.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo
+// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo/main/replace-twitter-logo.js
+// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo/main/replace-twitter-logo.js
+// @version      1.0
+// @description  Replace twitter logo with Linux logo. LOL
 // @author       tizee
 // @match        https://twitter.com/*
 // @match        https://x.com/*
 // @icon         https://www.google.com/s2/favicons?sz=64&domain=twitter.com
 // @grant        none
 // @run-at       document-start
+// @license      MIT
 // ==/UserScript==
 
 (function () {
