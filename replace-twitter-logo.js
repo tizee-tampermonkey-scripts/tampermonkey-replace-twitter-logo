@@ -1,8 +1,8 @@
 // ==UserScript==
 // @name         Replace Twitter logo
 // @namespace    https://github.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo
-// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo/main/replace-twitter-logo.js
-// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo/main/replace-twitter-logo.js
+// @downloadURL  https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo/refs/heads/main/replace-twitter-logo.js
+// @updateURL    https://raw.githubusercontent.com/tizee-tampermonkey-scripts/tampermonkey-replace-twitter-logo/refs/heads/main/replace-twitter-logo.js
 // @version      1.0
 // @description  Replace twitter logo with Linux logo. LOL
 // @author       tizee
